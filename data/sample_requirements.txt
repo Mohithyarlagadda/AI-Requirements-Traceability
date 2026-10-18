@@ -1,0 +1,8 @@
+
+System Requirements
+
+1. The system shall allow users to log in using their email and password.
+2. The system shall lock an account after five failed login attempts.
+3. The system shall send a password reset link to the user's registered email.
+4. The system shall record successful and failed login attempts.
+5. The system shall allow administrators to deactivate user accounts.

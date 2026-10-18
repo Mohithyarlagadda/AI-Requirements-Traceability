@@ -1,0 +1,7 @@
+
+pypdf
+scikit-learn
+networkx
+streamlit
+plotly
+pytest
